@@ -8,8 +8,6 @@ Git Hub цікава штука, але взагалі не зрозуміло �
 2. Писати Hello World на 3 мовах програмування
 3. Заробляти в місяць 1 млн Сьєрра-Леонських леонів
 
-![А оце я роблю дзшки школи]:(https://blogger.googleusercontent.com/img/a/AVvXsEgfNHnJplsnFGgQBpSyDbvi3T_LBB5T1RLJMwhgW0Cy2moXE-lkofZoP0pTjVhqTQQI_e_PZrTUSPtSehs2krgWCRi6VYiRswDHoRZaUoWBANAMgW-B4sPSnTOcubGe-1lwjnEXDBLxdHzNk1IxoQU6c7NAN7Cun8cIFNqf2sVAmWPi43eRfY9fiwic=w1600)
-
 >Якось вчуся, стараюсь не вилетіти зі школи 
 
 >>>Май совість Гіт, ти не маєш стати причиною мого кіку :(
